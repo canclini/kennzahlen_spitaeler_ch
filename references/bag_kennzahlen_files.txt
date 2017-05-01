@@ -1,0 +1,7 @@
+kzp09_daten.xls = https://bag-files.opendata.swiss/owncloud/index.php/s/ZbvnJeLBUx6zPXq
+kzp10_daten.xlsx = https://bag-files.opendata.swiss/owncloud/index.php/s/1mm2g9n5JCVnweo
+kzp11_daten.xlsx = https://bag-files.opendata.swiss/owncloud/index.php/s/Kkcqpawv9AQL306
+kzp12_daten.xlsx = https://bag-files.opendata.swiss/owncloud/index.php/s/lInsBljPMWejWR5
+kzp13_daten.xlsx = https://bag-files.opendata.swiss/owncloud/index.php/s/5I57pmSR4btG0tK
+kzp14_daten.xlsx = https://bag-files.opendata.swiss/owncloud/index.php/s/qJUjS0Jws3zdoGx
+kzp15_daten.xlsx = https://bag-files.opendata.swiss/owncloud/index.php/s/7y9QIAXzbjBa2oK

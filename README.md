@@ -9,6 +9,9 @@ Die Kennzahlen sind auf [opendata.swiss verfügbar](https://opendata.swiss/de/or
 3. Activate the environment. If using conda: `source activate kennzahlen_schweizer_spitaeler`
 4. install the required packages `make requirements`
 
+## Getting the data
+the data is downloaded from [opendata.swiss]([https://opendata.swiss) to the data/raw directory. Just type `make download_data`.
+
 ## Projektstruktur
 
     ├── LICENSE
