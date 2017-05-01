@@ -33,6 +33,7 @@ data: requirements
 ## Delete all compiled Python files
 clean:
 	find . -name "*.pyc" -exec rm {} \;
+	find data/raw/ -name "*.*" -not -name '.*' -exec rm {} \;
 
 ## Set up python interpreter environment
 create_environment:
